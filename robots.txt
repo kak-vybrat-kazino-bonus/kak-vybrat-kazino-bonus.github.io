@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kak-vybrat-kazino-bonus.github.io
+Sitemap: https://kak-vybrat-kazino-bonus.github.io/sitemap.xml
